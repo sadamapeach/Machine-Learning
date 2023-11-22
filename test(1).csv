@@ -1,4 +1,3 @@
-ID;pclass;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;home.dest
 1;1;Kenyon, Mr. Frederick R;male;41;1;0;17464;51,8625;D21;S;;;Southington / Noank, CT
 2;2;Christy, Mrs. (Alice Frances);female;45;0;2;237789;30;;S;12;;London
 3;3;Morley, Mr. William;male;34;0;0;364506;8,05;;S;;;
