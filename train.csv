@@ -1,4 +1,3 @@
-ID,pclass,survived,sex,age,sibsp,parch,fare,cabin,embarked,boat,body,home.dest
 401,3,0,male,,0,0,8.0500,,S,,,
 402,3,1,female,22,1,0,13.9000,,S,16,,"West Haven, CT"
 403,3,0,male,,0,0,7.3125,,S,,,
